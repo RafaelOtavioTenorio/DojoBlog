@@ -43,7 +43,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 Launches the JSON-Server RestAPI.
 Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
-Endpoints: [/blogs].
+Endpoints: /blogs.
 Note: The app will not work correctly without JSON-Server running
 
 ## Learn More
