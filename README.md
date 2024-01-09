@@ -41,10 +41,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### `npx json-server --watch data/db.json --port 8000`
 
-Launches the JSON-Server RestAPI.
-Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
-Endpoints: /blogs.
-Note: The app will not work correctly without JSON-Server running
+Launches the JSON-Server RestAPI.\
+Open [http://localhost:8000](http://localhost:8000) to view it in your browser.\
+Endpoints: /blogs.\
+Note: The app will not work correctly without JSON-Server running.
 
 ## Learn More
 
